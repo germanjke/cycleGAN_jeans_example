@@ -9,3 +9,10 @@ The model was trained for ~16 hours by Google Colab Pro. This version has 200 ep
 
 Results are here: 
 ![example1](https://github.com/germanjke/cycleGAN_jeans_example/blob/master/examples/paint1.png)
+![example2](https://github.com/germanjke/cycleGAN_jeans_example/blob/master/examples/paint2.png)
+![example3](https://github.com/germanjke/cycleGAN_jeans_example/blob/master/examples/paint3.png)
+![example4](https://github.com/germanjke/cycleGAN_jeans_example/blob/master/examples/paint4.png)
+![example5](https://github.com/germanjke/cycleGAN_jeans_example/blob/master/examples/paint5.png)
+![example6](https://github.com/germanjke/cycleGAN_jeans_example/blob/master/examples/paint6.png)
+![example7](https://github.com/germanjke/cycleGAN_jeans_example/blob/master/examples/paint7.png)
+
