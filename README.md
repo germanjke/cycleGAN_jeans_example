@@ -8,6 +8,7 @@ So I got a dataset of 800 black and 800 blue jeans. They were divided into a tra
 The model was trained for ~16 hours by Google Colab Pro. This version has 200 epochs. Weights [there](https://drive.google.com/drive/folders/19cMvga2-PxMXzlmIFTl-jb8O-jikrX_T?usp=sharing).
 
 Some results are here:
+
 Format: original image -> generated image, original image -> generated image 
 
 ![example1](https://github.com/germanjke/cycleGAN_jeans_example/blob/master/examples/paint1.png)
